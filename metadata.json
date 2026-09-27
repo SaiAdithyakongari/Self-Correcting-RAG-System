@@ -1,0 +1,6 @@
+{
+  "name": "Self-Correcting RAG System",
+  "description": "Production-grade Retrieval-Augmented Generation application with automated self-evaluating honesty gate, adaptive multi-cycle retrieval retries, full source traceability, and unified session history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
